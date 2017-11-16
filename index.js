@@ -2,7 +2,11 @@
    this.name = name
    this.homeState = homeState
    this.training = training
+<<<<<<< HEAD
 
+=======
+   
+>>>>>>> 1bcfb9076d0a459cc26d8081f8a5ccb248d3bce4
 
 }
 
@@ -22,4 +26,8 @@ BoardMember.prototype.releasePressStatement = function(){
 
 BoardMember.prototype.sayHi = function(){
         return `Hi, my name is ${this.name}. I am from ${this.homeState}, and I was trained in ${this.training}.`
+<<<<<<< HEAD
       }
+=======
+      }
+>>>>>>> 1bcfb9076d0a459cc26d8081f8a5ccb248d3bce4
